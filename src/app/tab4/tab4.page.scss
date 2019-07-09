@@ -7,17 +7,19 @@
 .cards{
     border-radius: 15px;
     height: 100%;
-    background-color: #989aa23b;
+    background-color: #f4f6f9;
     box-shadow: none;
+    color: #565f6e !important;
+    font-family: sans-serif !important;
 }
 .rows{
     margin-top: 20px;
 }
 .btn{
     margin-top: 85px;
-    --border-radius: 9px;
+    --border-radius: 17px;
     padding: 5px;
     /* background-color: pink; */
     height: 65px;
-    --background: #e23939e3;
+    --background: #ff5a5a;
 }
